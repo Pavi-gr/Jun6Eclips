@@ -20,6 +20,12 @@ public static void main(String[] args)  {
 	
 		Login l=new Login();
 		l.id();
+		System.out.println("11");
+		throw new  ArithmeticException("hi");
+		System.out.println("11");
+		throw new  ArithmeticException("hi");	
+
+	
 	}
 
 }
