@@ -22,9 +22,7 @@ public static void main(String[] args)  {
 		l.id();
 		System.out.println("11");
 		throw new  ArithmeticException("hi");
-		System.out.println("11");
-		throw new  ArithmeticException("hi");	
-
+		
 	
 	}
 
